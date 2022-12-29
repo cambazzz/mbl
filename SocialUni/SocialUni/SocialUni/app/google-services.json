@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "498988111260",
+    "project_id": "socialuni-74171",
+    "storage_bucket": "socialuni-74171.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498988111260:android:ffd2a2a9046cd2e4cb2459",
+        "android_client_info": {
+          "package_name": "com.example.socialuni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498988111260-rnjmf1kjv2r5vuqcujsohj9vff1gl74s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq5rZJ1s_S1jSHdcqNwZEqF9rwcupPtTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498988111260-rnjmf1kjv2r5vuqcujsohj9vff1gl74s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
